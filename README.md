@@ -10,7 +10,7 @@ This repository is a central index of my main technical projects — each one li
 
 ---
 
-## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction)
+## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) Data Science Project
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -32,7 +32,7 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 
 ---
 
-## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model)
+## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model) Data Science Project
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -52,7 +52,7 @@ An IoT-connected anomaly detection system for beehive health monitoring. A BME28
 
 ---
 
-## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System)
+## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) AI-powered full-stack business platform
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
