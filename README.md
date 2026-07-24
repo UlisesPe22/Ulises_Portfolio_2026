@@ -4,13 +4,13 @@ This repository is a central index of my main technical projects — each one li
 
 ## 📑 Table of Contents
 
-- [NLP Topic Extraction](#-nlp-topic-extraction)
-- [Beehive Anomaly Detection System (LSTM)](#-beehive-anomaly-detection-system-lstm)
-- [Motorcycle Multi-Dealership Management System](#-motorcycle-multi-dealership-management-system)
+- [NLP Topic Extraction](#-nlp-topic-extraction) **Unsupervised Text Clustering Pipeline**
+- [Beehive Anomaly Detection System (LSTM)](#-beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
+- [Motorcycle Multi-Dealership Management System](#-motorcycle-multi-dealership-management-system) **AI-powered Full-stack Business Platform**
 
 ---
 
-## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) Data Science Project
+## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -32,7 +32,7 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 
 ---
 
-## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model) Data Science Project
+## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -52,7 +52,7 @@ An IoT-connected anomaly detection system for beehive health monitoring. A BME28
 
 ---
 
-## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) AI-powered full-stack business platform
+## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) 
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
