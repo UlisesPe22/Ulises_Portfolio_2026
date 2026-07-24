@@ -1,12 +1,12 @@
-# 🧭 Ulises Pérez — Project Hub: Click a Project to Explore
+# Ulises Pérez — Project Hub: Click a Project to Explore
 
 This repository is a central index of my main technical projects — each one lives in its own repo, linked below with a summary, tech stack, and key highlights so you can jump straight to whichever interests you most.
 
 ## 📑 Table of Contents
 
 - [NLP Topic Extraction](#-nlp-topic-extraction) **Unsupervised Text Clustering Pipeline**
-- [Beehive Anomaly Detection System (LSTM)](#-beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
 - [Motorcycle Multi-Dealership Management System](#-motorcycle-multi-dealership-management-system) **AI-powered Full-stack Business Platform**
+- [Beehive Anomaly Detection System (LSTM)](#-beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
 
 ---
 
@@ -31,6 +31,21 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 - CPU-only PyTorch backend for lightweight deployment
 
 ---
+## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) 
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?logo=googlegemini&logoColor=white)
+
+An AI-driven dealership management platform built as my thesis project for a real multi-location motorcycle dealership group. The system automates document-heavy dealership workflows — from purchase to sale — using an event-driven architecture and a Google Gemini-powered AI pipeline that reads and validates official ID documents (INE) and dealership paperwork automatically. It manages the full motorcycle lifecycle (purchased → in stock → reserved → sold) with role-based access for owners, managers, and vendors, and a React/Vite frontend backed by a FastAPI + PostgreSQL system.
+
+---
 
 ## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model)
 
@@ -49,22 +64,6 @@ An IoT-connected anomaly detection system for beehive health monitoring. A BME28
 - Engineered distance features to capture short/mid/long-term sensor drift
 - Sliding-window LSTM trained on labeled sequential sensor data
 - Real-time Flask + SQLite dashboard with a simulator to replay live sensor streams
-
----
-
-## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) 
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?logo=googlegemini&logoColor=white)
-
-An AI-driven dealership management platform built as my thesis project for a real multi-location motorcycle dealership group. The system automates document-heavy dealership workflows — from purchase to sale — using an event-driven architecture and a Google Gemini-powered AI pipeline that reads and validates official ID documents (INE) and dealership paperwork automatically. It manages the full motorcycle lifecycle (purchased → in stock → reserved → sold) with role-based access for owners, managers, and vendors, and a React/Vite frontend backed by a FastAPI + PostgreSQL system.
 
 **Highlights:**
 - Full motorcycle lifecycle state machine with sale/payment event tracking
