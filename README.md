@@ -1,5 +1,7 @@
 # Ulises Pérez — Project Hub: Click a Project to Explore
-
+<p align="center">
+  <img src="assets/gif1" width="200" alt="Portfolio banner" />
+</p>
 This repository is a central index of my main technical projects — each one lives in its own repo, linked below with a summary, tech stack, and key highlights so you can jump straight to whichever interests you most.
 
 ## 📑 Table of Contents
