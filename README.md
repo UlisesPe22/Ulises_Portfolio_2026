@@ -74,3 +74,7 @@ An IoT-connected anomaly detection system for beehive health monitoring. A BME28
 - Engineered distance features to capture short/mid/long-term sensor drift
 - Sliding-window LSTM trained on labeled sequential sensor data
 - Real-time Flask + SQLite dashboard with a simulator to replay live sensor streams
+
+<p align="center">
+  <img src="assets/gif1.gif" width="400" alt="Portfolio banner" />
+</p>
