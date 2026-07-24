@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gif2.gif" width="200" alt="Portfolio banner" />
+  <img src="assets/gif2.gif" width="250" alt="Portfolio banner" />
 </p>
 
 # Ulises Pérez — Project Hub: Click a Project to Explore
