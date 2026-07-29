@@ -14,7 +14,7 @@ This repository is a central index of my main technical projects — each one li
 
 <h2 id="nlp-topic-extraction">
 
-[🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) **← click the link to open repo**
+[🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) **← CLICK LINK TO OPEN REPO**
 
 </h2>
 
@@ -38,8 +38,7 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 ---
 <h2 id="motorcycle-dealership-management-system">
 
-[🏍️ Motorcycle Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) **← click the link to open repo**
-
+[🏍️ Motorcycle Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) **← CLICK LINK TO OPEN REPO**
 </h2>
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -64,7 +63,7 @@ An AI-driven dealership management platform built as my thesis project for a rea
 
 <h2 id="beehive-anomaly-detection-system-lstm">
 
-[🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model) **← click the link to open repo**
+[🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model) **← CLICK LINK TO OPEN REPO**
 
 </h2>
 
