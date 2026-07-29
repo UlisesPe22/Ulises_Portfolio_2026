@@ -12,7 +12,11 @@ This repository is a central index of my main technical projects — each one li
 - [Beehive Anomaly Detection System (LSTM)](#beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
 ---
 
-## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction)       <----- CLICK THE LINK TO OPEN REPO
+<h2 id="nlp-topic-extraction">
+
+[🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction) <sub>← click the link to open repo</sub>
+
+</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
