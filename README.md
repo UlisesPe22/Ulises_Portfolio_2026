@@ -7,10 +7,9 @@ This repository is a central index of my main technical projects — each one li
 
 ## 📑 Table of Contents
 
-- [NLP Topic Extraction](#-nlp-topic-extraction) **Unsupervised Text Clustering Pipeline**
-- [Motorcycle Dealership Management System](#-motorcycle-dealership-management-system) **AI-powered Full-stack Business Platform**
-- [Beehive Anomaly Detection System (LSTM)](#-beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
-
+- [NLP Topic Extraction](#nlp-topic-extraction) **Unsupervised Text Clustering Pipeline**
+- [Motorcycle Dealership Management System](#motorcycle-dealership-management-system) **AI-powered Full-stack Business Platform**
+- [Beehive Anomaly Detection System (LSTM)](#beehive-anomaly-detection-system-lstm) **Applied Machine Learning & Feature Engineering**
 ---
 
 ## [🔎 NLP Topic Extraction](https://github.com/UlisesPe22/NLP_Topic_Extraction)       <----- CLICK THE LINK TO OPEN REPO
