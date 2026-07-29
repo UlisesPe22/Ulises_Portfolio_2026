@@ -36,7 +36,11 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 - Fully unsupervised — no manual labeling required
 - In-depth data science analysis using the Silhouette Score and Elbow Method, with clear result visualizations.
 ---
-## [🏍️ Motorcycle Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System)   <----- CLICK THE LINK TO OPEN REPO
+<h2 id="motorcycle-dealership-management-system">
+
+[🏍️ Motorcycle Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) <sub>← click the link to open repo</sub>
+
+</h2>
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
@@ -58,7 +62,11 @@ An AI-driven dealership management platform built as my thesis project for a rea
 
 ---
 
-## [🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model)  <----- CLICK THE LINK TO OPEN REPO
+<h2 id="beehive-anomaly-detection-system-lstm">
+
+[🐝 Beehive Anomaly Detection System (LSTM)](https://github.com/UlisesPe22/Anomaly_Detection_System_LSTM_Model) <sub>← click the link to open repo</sub>
+
+</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
