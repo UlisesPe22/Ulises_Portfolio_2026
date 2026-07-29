@@ -31,8 +31,7 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 **Highlights:**
 - End-to-end embedding → dimensionality reduction → clustering pipeline
 - Fully unsupervised — no manual labeling required
-- CPU-only PyTorch backend for lightweight deployment
-
+- In-depth data science analysis using the Silhouette Score and Elbow Method, with clear result visualizations.
 ---
 ## [🏍️ Motorcycle Multi-Dealership Management System](https://github.com/UlisesPe22/Motorcycle_Multi_Dealership_Mangement_System) 
 
@@ -46,12 +45,11 @@ An unsupervised NLP pipeline that extracts and clusters topics from unstructured
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-8E75B2?logo=googlegemini&logoColor=white)
 
-An AI-driven dealership management platform built as my thesis project for a real multi-location motorcycle dealership group. The system automates document-heavy dealership workflows — from purchase to sale — using an event-driven architecture and a Google Gemini-powered AI pipeline that reads and validates official ID documents (INE) and dealership paperwork automatically. It manages the full motorcycle lifecycle (purchased → in stock → reserved → sold) with role-based access for owners, managers, and vendors, and a React/Vite frontend backed by a FastAPI + PostgreSQL system.
+An AI-driven dealership management platform built as my thesis project for a real multi-location motorcycle dealership group. The system automates document-heavy dealership workflows — from purchase to sale — using an event-driven architecture and a Google Gemini-powered AI pipeline that reads and validates dealership paperwork automatically. **It manages the full product lifecycle with role-based access for owners, managers, and vendors, and a React/Vite frontend backed by a FastAPI + PostgreSQL system.**
 
 **Highlights:**
-- Full motorcycle lifecycle state machine with sale/payment event tracking
-- Gemini-powered document pipeline: ID corner detection, perspective correction, field extraction, and MRZ cross-validation
-- JWT authentication with role-based access control (master/owner/manager/vendor)
+- Full product lifecycle state machine with sale/payment event tracking
+- Gemini-powered document pipeline: Document detection, perspective correction, field extraction, and data integrity validation
 - Dockerized FastAPI + PostgreSQL backend with async performance load-tested via Locust
 - React/Vite frontend with a live owner dashboard
 
@@ -72,5 +70,5 @@ An IoT-connected anomaly detection system for beehive health monitoring. A BME28
 **Highlights:**
 - PCA-driven feature selection (temperature, humidity) backed by exploratory data analysis
 - Engineered distance features to capture short/mid/long-term sensor drift
-- Sliding-window LSTM trained on labeled sequential sensor data
+- Tensor Sliding-window LSTM trained on labeled sequential sensor data
 - Real-time Flask + SQLite dashboard with a simulator to replay live sensor streams
